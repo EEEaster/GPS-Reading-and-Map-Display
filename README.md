@@ -14,7 +14,7 @@ pip install pyserial
 pip install pynmea2
 
 
-python3.8 或以上（推荐 3.9 / 3.10 / 3.11）
+python3.8 and above（recommend 3.9 / 3.10 / 3.11）
 PyQt5>=5.15.0
 PyQtWebEngine>=5.15.0
 pyserial>=3.5
